@@ -1,0 +1,2 @@
+﻿  ZadanieNa9.cpp
+D:\Programs\Лаба2\ZadanieNa9\ZadanieNa9.cpp(13): error C4700: uninitialized local variable 'sum1' used

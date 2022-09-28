@@ -1,0 +1,5 @@
+﻿  Zadanie2(10).cpp
+D:\Programs\Лаба2\Zadanie2(10)\Zadanie2(10).cpp(6,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Programs\Лаба2\Zadanie2(10)\Zadanie2(10).cpp(10,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programs\Лаба2\Zadanie2(10)\Zadanie2(10).cpp(11,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Zadanie2(10).vcxproj -> D:\Programs\Лаба2\Zadanie2(10)\x64\Debug\Zadanie2(10).exe
